@@ -1,2 +1,13 @@
-429-2 – Кузнецов – 3
+What do you like more?
+1. php
+2. C++
+3. C#
+4. Ruby
+5. Python
+6. other
+//Your answer
+//example: 428-1 - Назаркин - 5
+
+
 429-1 - Хазов - 4
+429-2 – Кузнецов – 3
